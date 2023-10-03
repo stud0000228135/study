@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\Админ\Desktop\Учеба\Инжиниринг данных\Лабораторные работы\Лабораторная работа 3\data_bank.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\dataEngineering1\lab1\data.csv">
           <value>
             <Attribute>
@@ -11,6 +18,20 @@
           </value>
         </entry>
         <entry key="\dataEngineering1\lab2\airport-codes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataEngineering1\lab3\data_bank_new.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataEngineering1\lab3\lab3.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
