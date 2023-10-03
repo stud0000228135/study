@@ -1,0 +1,35 @@
+Date,name,Valute,ID,NumCode,CharCode,Nominal,Name,Value
+03.10.2023,Foreign Currency Market,AUD,R01010,36,AUD,1,Австралийский доллар,56.9065
+03.10.2023,Foreign Currency Market,AZN,R01020A,944,AZN,1,Азербайджанский манат,43.4819
+03.10.2023,Foreign Currency Market,GBP,R01035,826,GBP,1,Фунт стерлингов Соединенного королевства,100.8477
+03.10.2023,Foreign Currency Market,AMD,R01060,51,AMD,100,Армянских драмов,14.1457
+03.10.2023,Foreign Currency Market,BYN,R01090B,933,BYN,1,Белорусский рубль,28.5234
+03.10.2023,Foreign Currency Market,BGN,R01100,975,BGN,1,Болгарский лев,46.4218
+03.10.2023,Foreign Currency Market,BRL,R01115,986,BRL,1,Бразильский реал,14.2233
+03.10.2023,Foreign Currency Market,HUF,R01135,348,HUF,100,Венгерских форинтов,24.8752
+03.10.2023,Foreign Currency Market,HKD,R01200,344,HKD,10,Гонконгских долларов,95.3013
+03.10.2023,Foreign Currency Market,DKK,R01215,208,DKK,1,Датская крона,12.2032
+03.10.2023,Foreign Currency Market,USD,R01235,840,USD,1,Доллар США,73.8757
+03.10.2023,Foreign Currency Market,EUR,R01239,978,EUR,1,Евро,90.7932
+03.10.2023,Foreign Currency Market,INR,R01270,356,INR,10,Индийских рупий,10.1108
+03.10.2023,Foreign Currency Market,KZT,R01335,398,KZT,100,Казахстанских тенге,17.5252
+03.10.2023,Foreign Currency Market,CAD,R01350,124,CAD,1,Канадский доллар,57.9599
+03.10.2023,Foreign Currency Market,KGS,R01370,417,KGS,100,Киргизских сомов,89.3546
+03.10.2023,Foreign Currency Market,CNY,R01375,156,CNY,1,Китайский юань,11.2956
+03.10.2023,Foreign Currency Market,MDL,R01500,498,MDL,10,Молдавских леев,42.951
+03.10.2023,Foreign Currency Market,NOK,R01535,578,NOK,10,Норвежских крон,86.4478
+03.10.2023,Foreign Currency Market,PLN,R01565,985,PLN,1,Польский злотый,19.8393
+03.10.2023,Foreign Currency Market,RON,R01585F,946,RON,1,Румынский лей,18.6414
+03.10.2023,Foreign Currency Market,XDR,R01589,960,XDR,1,СДР (специальные права заимствования),106.401
+03.10.2023,Foreign Currency Market,SGD,R01625,702,SGD,1,Сингапурский доллар,55.8945
+03.10.2023,Foreign Currency Market,TJS,R01670,972,TJS,10,Таджикских сомони,65.218
+03.10.2023,Foreign Currency Market,TRY,R01700J,949,TRY,10,Турецких лир,99.9739
+03.10.2023,Foreign Currency Market,TMT,R01710A,934,TMT,1,Новый туркменский манат,21.1375
+03.10.2023,Foreign Currency Market,UZS,R01717,860,UZS,10000,Узбекских сумов,70.5128
+03.10.2023,Foreign Currency Market,UAH,R01720,980,UAH,10,Украинских гривен,26.0711
+03.10.2023,Foreign Currency Market,CZK,R01760,203,CZK,10,Чешских крон,34.6054
+03.10.2023,Foreign Currency Market,SEK,R01770,752,SEK,10,Шведских крон,90.1869
+03.10.2023,Foreign Currency Market,CHF,R01775,756,CHF,1,Швейцарский франк,83.7973
+03.10.2023,Foreign Currency Market,ZAR,R01810,710,ZAR,10,Южноафриканских рэндов,50.4719
+03.10.2023,Foreign Currency Market,KRW,R01815,410,KRW,1000,Вон Республики Корея,67.9164
+03.10.2023,Foreign Currency Market,JPY,R01820,392,JPY,100,Японских иен,71.6058
